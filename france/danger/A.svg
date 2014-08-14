@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" version="1" width="64">
+    <g fill="#fff">
+        <path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;-inkscape-font-specification:Sans" d="M31.825 4.402c-1.106.05-2.167.7-2.713 1.664L1.477 54.692c-.562.996-.553 2.29.024 3.278.578.988 1.7 1.632 2.844 1.63l55.326-.013c1.14-.004 2.26-.65 2.832-1.637.574-.987.582-2.278.02-3.272L34.833 6.066c-.595-1.048-1.803-1.717-3.007-1.664z" color="#000" stroke="#9c9c9c" stroke-width=".224" overflow="visible" enable-background="accumulate" font-family="Sans"/>
+        <path d="M59.662 56.293l-55.324.02L31.978 7.69 59.66 56.293z" stroke="#d12d2d" stroke-width="3.712" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>
