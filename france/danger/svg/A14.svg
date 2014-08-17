@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" version="1" width="64">
+    <g>
+        <path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;-inkscape-font-specification:Sans" d="M31.825 4.402c-1.106.05-2.167.7-2.713 1.664L1.477 54.692c-.562.996-.553 2.29.024 3.278.578.988 1.7 1.632 2.844 1.63l55.326-.013c1.14-.004 2.26-.65 2.832-1.637.574-.987.582-2.278.02-3.272L34.833 6.066c-.595-1.048-1.803-1.717-3.007-1.664z" color="#000" fill="#fff" stroke="#9c9c9c" stroke-width=".224" overflow="visible" enable-background="accumulate" font-family="Sans"/>
+        <g>
+            <path d="M59.662 56.293l-55.324.02L31.978 7.69 59.66 56.293z" fill="#fff" stroke="#d12d2d" stroke-width="3.712" stroke-linecap="round" stroke-linejoin="round"/>
+            <g>
+                <path d="M27.98 26.444s-.503-4.34 4.09-4.34c4.675 0 3.92 4.257 3.92 4.257S34.09 39.733 33.08 43.73c-.16.64-.616.923-1.107.923-.468 0-.92-.12-1.125-.914-.94-3.638-2.865-17.296-2.865-17.296z"/>
+                <path d="M34.753 48.52c0 1.52-1.23 2.75-2.75 2.75s-2.75-1.23-2.75-2.75 1.23-2.75 2.75-2.75 2.75 1.23 2.75 2.75z"/>
+            </g>
+        </g>
+    </g>
+</svg>
